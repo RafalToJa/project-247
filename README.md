@@ -1,1 +1,3 @@
 # project-247
+Hiper-Casual game made during my non-paid internship at a small game-dev group/company Deer Dev Studios.
+It's a simple zombie shooting game, where the objective in each level is to shoot down all enemies using cannon and droppable power-ups.
